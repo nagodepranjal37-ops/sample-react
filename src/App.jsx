@@ -28,7 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <h1>version 2.0.0</h1>
+      <h1>version 3.0.0</h1>
     </>
   )
 }
